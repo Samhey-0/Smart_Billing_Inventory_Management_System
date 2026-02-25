@@ -19,6 +19,9 @@ A complete web-based application to manage sales, inventory, customers, supplier
 
 ## Screenshots
 
+### Login Page
+![Login Page](screenshots/Authentication.png)
+
 ### Dashboard
 ![Dashboard](screenshots/Dashboard.jpeg)
 ![Full Dashboard](screenshots/Full_dashboard.jpeg)
@@ -47,9 +50,6 @@ A complete web-based application to manage sales, inventory, customers, supplier
 
 ### Sales Report
 ![Sales Report](screenshots/Sales_Report.png)
-
-### Login Page
-![Login Page](screenshots/Authentication.png)
 ---
 
 ## Installation
