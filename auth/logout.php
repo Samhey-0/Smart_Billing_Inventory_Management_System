@@ -17,5 +17,5 @@ $_SESSION = [];
 session_destroy();
 
 // Redirect to login
-header('Location: /inspire-shoes/auth/login.php');
+header('Location: /Smart_Billing_Inventory_Management_System/auth/login.php');
 exit();
