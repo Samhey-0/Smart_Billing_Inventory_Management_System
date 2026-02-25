@@ -48,6 +48,8 @@ A complete web-based application to manage sales, inventory, customers, supplier
 ### Sales Report
 ![Sales Report](screenshots/Sales_Report.png)
 
+### Login Page
+![Login Page](screenshots/Authentication.png)
 ---
 
 ## Installation
